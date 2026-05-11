@@ -1,0 +1,17 @@
+
+> omni-kernel-backend@0.1.0 dev
+> node --watch src/server.js
+
+Failed running 'src/server.js'. Waiting for file changes before restarting...
+Restarting 'src/server.js'
+Omni-Kernel backend listening on http://localhost:5000
+Restarting 'src/server.js'
+Omni-Kernel backend listening on http://localhost:5000
+Restarting 'src/server.js'
+Omni-Kernel backend listening on http://localhost:5000
+Restarting 'src/server.js'
+Omni-Kernel backend listening on http://localhost:5000
+Restarting 'src/server.js'
+Omni-Kernel backend listening on http://localhost:5000
+Restarting 'src/server.js'
+Omni-Kernel backend listening on http://localhost:5000

@@ -1,0 +1,25 @@
+
+> omni-kernel-frontend@0.1.0 dev
+> vite --host 0.0.0.0 --port 5173
+
+
+  [32m[1mVITE[22m v6.4.2[39m  [2mready in [0m[1m721[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.19.11.77:[1m5173[22m/[39m
+[2m10:54:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Desktop.jsx, /src/styles/index.css[22m
+[2m10:54:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Desktop.jsx, /src/styles/index.css[22m
+[2m11:00:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/socket/events.js[22m
+[2m11:00:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/socket/client.js[22m
+[2m11:00:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Desktop.jsx, /src/styles/index.css[22m
+[2m11:00:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/CommandSearch.jsx, /src/styles/index.css[22m
+[2m11:00:29 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33msocket.io-client[32m[39m
+[2m11:00:29 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m11:05:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/components/TerminalContent.jsx, /src/components/CommandSearch.jsx[22m
+[2m11:05:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Desktop.jsx, /src/styles/index.css[22m
+[2m11:06:36 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/BrowserContent.jsx, /src/styles/index.css[22m
+[2m11:06:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/BrowserContent.jsx, /src/styles/index.css[22m
+[2m11:13:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/components/CommandSearch.jsx, /src/components/Taskbar.jsx, /src/components/Window.jsx[22m
+[2m11:13:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Taskbar.jsx, /src/styles/index.css[22m
+[2m11:13:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Desktop.jsx, /src/styles/index.css[22m
+[2m11:16:26 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Desktop.jsx, /src/styles/index.css[22m
